@@ -1,0 +1,7 @@
+.slider-base-height {
+    max-height: 70vh;
+}
+
+.slider-base-height .carousel-inner {
+    max-height: 100%;
+}
